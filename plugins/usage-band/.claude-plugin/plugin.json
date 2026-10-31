@@ -1,0 +1,7 @@
+{
+  "name": "usage-band",
+  "version": "0.1.0",
+  "description": "Показує знизу чату заповнення контексту та залишок лімітів",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}

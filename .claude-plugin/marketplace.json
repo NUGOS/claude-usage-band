@@ -1,0 +1,7 @@
+{
+  "name": "claude-usage-band",
+  "owner": { "name": "NUGOS" },
+  "plugins": [
+    { "name": "usage-band", "source": "./plugins/usage-band", "description": "Показує над полем вводу заповнення контексту та залишок лімітів" }
+  ]
+}
